@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:xamarin_devday"
+             xmlns:conv="clr-namespace:xamarin_devday.Converters;assembly=xamarin_devday"
+             x:Class="xamarin_devday.MainPage" Appearing="OnAppearing">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <conv:PlatformConverter x:Key="platformConverter"></conv:PlatformConverter>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <StackLayout Orientation="Vertical" Padding="20,20,20,20">
+    <Entry x:Name="txtNote" HorizontalOptions="FillAndExpand" Placeholder="Nota"></Entry>
+    <StackLayout Orientation="Horizontal">
+      <Picker x:Name="pckNote" HorizontalOptions="FillAndExpand">
+        <Picker.Items>
+          <x:String>Nota de Escuela</x:String>
+          <x:String>Nota de Trabajo</x:String>        
+      </Picker.Items>
+      </Picker>
+      <Button x:Name="btnAddNote" Text="Agregar" Clicked="OnClicked"></Button>
+    </StackLayout>
+    <ListView x:Name="lsvNotes" HasUnevenRows="True" IsPullToRefreshEnabled="true" Refreshing="OnRefreshing">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ImageCell Text="{Binding note}" ImageSource="{Binding Path=device, Converter={StaticResource platformConverter}}" />
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>    
+  </StackLayout>
+</ContentPage>

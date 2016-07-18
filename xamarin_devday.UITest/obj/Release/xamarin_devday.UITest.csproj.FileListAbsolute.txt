@@ -1,0 +1,9 @@
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\bin\Release\xamarin_devday.UITest.dll
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\bin\Release\xamarin_devday.UITest.pdb
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\bin\Release\nunit.framework.dll
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\bin\Release\Xamarin.UITest.dll
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\bin\Release\nunit.framework.xml
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\bin\Release\Xamarin.UITest.xml
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\obj\Release\xamarin_devday.UITest.csprojResolveAssemblyReference.cache
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\obj\Release\xamarin_devday.UITest.dll
+C:\GitHub\xamarin-devday\xamarin_devday.UITest\obj\Release\xamarin_devday.UITest.pdb

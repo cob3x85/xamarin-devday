@@ -1,0 +1,15 @@
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\xamarin_devday.dll
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\xamarin_devday.pdb
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\Xamarin.Forms.Core.dll
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\Xamarin.Forms.Platform.dll
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\Xamarin.Forms.Xaml.dll
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\Xamarin.Forms.Core.xml
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\Xamarin.Forms.Xaml.xml
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\obj\Release\xamarin_devday.MainPage.xaml.g.cs
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\obj\Release\xamarin_devday.App.xaml.g.cs
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\obj\Release\xamarin_devday.dll
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\obj\Release\xamarin_devday.pdb
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\obj\Release\xamarin_devday.dll.mdb
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\xamarin_devday.dll.mdb
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\obj\Release\xamarin_devday.dll.mdb
+C:\GitHub\xamarin-devday\xamarin-devday\xamarin_devday\bin\Release\xamarin_devday.dll.mdb
